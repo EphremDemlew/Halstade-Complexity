@@ -1,0 +1,30 @@
+{
+  "name": "halstade",
+  "version": "1.0.0",
+  "description": "Dynamic analysis of c code by halstade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EphremDemlew/Halstade-Complexity.git"
+  },
+  "keywords": [
+    "halstade",
+    "complexity",
+    "measure"
+  ],
+  "author": "Ephrem Demlew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EphremDemlew/Halstade-Complexity/issues"
+  },
+  "homepage": "https://github.com/EphremDemlew/Halstade-Complexity#readme",
+  "dependencies": {
+    "chain-lexer": "^1.8.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "express-fileupload": "^1.3.1"
+  }
+}
